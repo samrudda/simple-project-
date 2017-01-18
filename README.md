@@ -1,1 +1,3 @@
-# simple-project-
+
+hi friends,
+     welcome to springs
